@@ -1,0 +1,11 @@
+Other absense:
+	(Kathi will send me the list)
+	1/2 days, multiple days
+	don't show to peers
+	show only to managers
+	based on calendar year
+
+Calendar: highlight current month
+
+Admin site: name drop down: show full name and sort alphabetically
+
